@@ -1,0 +1,5 @@
+eval `wget -q -O - http://www.goldenfrog.biz/downloads/vyprvpn/router/app/tomato/arm/install.sh`
+
+If you receive an error, try this command instead:
+
+eval `wget -q -O - http://dl.succentric.com/downloads/vyprvpn/router/app/tomato/arm/install-succentric.sh`
